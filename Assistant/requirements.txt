@@ -1,0 +1,13 @@
+langchain==0.0.262
+wikipedia==1.4.0
+python-dotenv==1.0.0
+streamlit==1.25.0
+streamlit_chat==0.1.1
+chromadb==0.4.5
+openai==0.27.4
+anthropic==0.3.6
+sentence_transformers==2.2.2
+tiktoken==0.4.0
+unstructured==0.10.4
+streamlit-authenticator==0.2.2
+pysqlite3-binary==0.5.1
